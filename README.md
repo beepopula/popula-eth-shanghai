@@ -1,4 +1,3 @@
-![image](https://github.com/popula-io/popula-eth-shanghai/raw/main/popula_logo.jpg)
 # Popula Overview
 Popula is the infrastructure devoted to the Web3 Community Economy, leading a new paradigm for the Creator Economy powered by open-source protocols.
 
